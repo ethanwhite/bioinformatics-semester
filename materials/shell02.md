@@ -2,7 +2,7 @@
 layout: page
 element: notes
 title: Navigating Files and Directories
-language: Python
+language: Shell
 questions:
 - "How can I move around on my computer?"
 - "How can I see what files and directories I have?"
@@ -420,7 +420,7 @@ data-shell/
 
 Your output should be a list of all the files and sub-directories on your
 Desktop, including the `data-shell` directory you downloaded at
-the [setup for this lesson]({{ page.root }}{% link setup.md %}).  Take a look at your Desktop to confirm that
+the [setup for this lesson]({{ page.root }}{% link computer-setup.md %}).  Take a look at your Desktop to confirm that
 your output is accurate.  
 
 As you may now see, using a bash shell is strongly dependent on the idea that
